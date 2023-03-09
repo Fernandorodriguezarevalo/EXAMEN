@@ -12,7 +12,3 @@ g.	Merge: Este comando lo utilizamos al momento de ver alguna linea cambiada.
 h.	Pull: Este comando lo utilizamos para tarbajar sobre diferentes líneas.
 i.	Fetch: Este comando lo utilizamos para eliminar alguna línea ya antes escrita.
 
-a.	¿Para qué sirve el comando cd? Para abrir las carpetas
-b.	¿Para qué sirve el comando dir? Para ver todas nyuestras carpetas
-c.	¿Para qué sirve el comando mkdir? Para modificar el nombre de nuestras carpetas
-d.	¿Para qué sirve el comando cd ..? Para salir de una carpeta

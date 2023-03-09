@@ -1,0 +1,13 @@
+https://github.com/Fernandorodriguezarevalo/EXAMEN.git
+1.	¿Qué es Git?  Es  una aplicación donde podemos ver, crear y modificar varios documentos, tambien podemos subirlos con copdigos a otra aplicación.
+2.	¿Qué es GitHub? Aquí podemos crear repositorios para poder guardar los archgivos que subamos por Git, ya sean proyectos o hasta una imagen.
+3.	Describe la funcionalidad de los siguientes comandos de GIT Bash:
+a.	Clone: Este nos sirve para clonar un archivo ya antes realizado o para clonarlo a alguna dbase de datos
+b.	Status: Este comando nmos sirve para ver el estado de nustros archivos antes y despues de a verlos modificado.
+c.	Diff: Este comando nos sirve para…
+d.	Add: Este comando nos sirve para terminar el proceso cuando subimos un archivo.
+e.	Commit: Este comaando nos sirve para ponerle un nombre a nuestro archivo que vallamos a subir y empaquetarlo-
+f.	Push: Este comando lo utilizamos cuando terminamos el proceso de subir y empaquetar un archivo.
+g.	Merge: Este comando lo utilizamos al momento de ver alguna linea cambiada.
+h.	Pull: Este comando lo utilizamos para tarbajar sobre diferentes líneas.
+i.	Fetch: Este comando lo utilizamos para eliminar alguna línea ya antes escrita.
